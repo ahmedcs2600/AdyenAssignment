@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Assignment</string>
+    <string name="places_screen_page_title">Places List</string>
+    <string name="generic_error">Places List</string>
+    <string name="location_failed_msg">Unable to fetch location</string>
+    <string name="location_permission_denied">Location Permission Denied</string>
+    <string name="http_call_exception">Http call exception</string>
+    <string name="no_network_error">No Network Error</string>
+    <string name="server_unreachable_error">Server unreachable</string>
+</resources>
